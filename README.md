@@ -91,7 +91,6 @@ Understanding the data is crucial before starting the analysis. Here's a breakdo
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices.
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -110,36 +109,33 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+## Home Page
 
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Home](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/Home.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/finance.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/sales.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/Market.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/Supply.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/Excecutive.png)
 
-## Products
+## Trends
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Trends](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/trends.png)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
