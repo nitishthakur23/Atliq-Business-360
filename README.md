@@ -3,7 +3,7 @@
 ## Project Overview
 
 AtliQ Hardware has been experiencing rapid growth and, to stay ahead of the competition, they've decided to adopt Power BI as their first data analytics tool. The goal is to harness the power of data for better decision-making across various business units, including finance, sales, marketing, and supply chain management. This project is designed to provide key insights to stakeholders across all these areas, ensuring that the company stays competitive.
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTdhYzA3OWYtYzE4MS00ZTEzLWJmYzgtNmI0ZjEwN2Q3ODBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+![Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTdhYzA3OWYtYzE4MS00ZTEzLWJmYzgtNmI0ZjEwN2Q3ODBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -119,7 +119,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Finace.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/finance.png)
 ## Sales View
 
-![Sales.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/sales.png)
+![Sales.gif](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/Sales.png)
 
 ## Marketing View
 
@@ -137,7 +137,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Trends](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Images/trends.png)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : ![Report](https://github.com/nitishthakur23/Atliq-Business-360/blob/main/Dashboard/Project(Business%20360).pbix)
 
 
 ## Project Outcome
