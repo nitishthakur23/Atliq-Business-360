@@ -63,7 +63,7 @@ Recently, the company experienced unforeseen losses after opening a store in Ame
 Recently, the company experienced unforeseen losses after opening a store in America based on surveys and intuition rather than data. Competitors, with their data analytics teams, have been outperforming them. As a result, AtliQ decided to form its own analytics team to drive decisions through data-driven insights.
 
 ## Dataset Understanding
-
+### Note: The dataset is not publicly available because of the restriction by the owner.
 Understanding the data is crucial before starting the analysis. Here's a breakdown of the data used in the project:
 
 ### **gdb041 Database**:
